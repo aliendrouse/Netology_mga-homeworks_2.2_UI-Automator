@@ -1,0 +1,1 @@
+[![Android CI](https://github.com/aliendrouse/Netology_mga-homeworks_2.2_UI-Automator/actions/workflows/android.yml/badge.svg)](https://github.com/aliendrouse/Netology_mga-homeworks_2.2_UI-Automator/actions/workflows/android.yml)
